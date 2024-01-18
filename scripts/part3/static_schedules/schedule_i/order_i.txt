@@ -1,0 +1,1 @@
+order=["ferret" "freqmine" "canneal" "dedup" "vips" "blackscholes" "radix"]

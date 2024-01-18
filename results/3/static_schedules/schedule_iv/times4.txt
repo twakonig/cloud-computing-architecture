@@ -1,0 +1,30 @@
+Job:  parsec-blackscholes
+Start time:       2023-05-12 07:29:32
+Completion time:  2023-05-12 07:30:20
+Job time:         0:00:48
+Job:  parsec-canneal
+Start time:       2023-05-12 07:27:35
+Completion time:  2023-05-12 07:29:43
+Job time:         0:02:08
+Job:  parsec-dedup
+Start time:       2023-05-12 07:30:37
+Completion time:  2023-05-12 07:30:49
+Job time:         0:00:12
+Job:  parsec-ferret
+Start time:       2023-05-12 07:27:35
+Completion time:  2023-05-12 07:29:28
+Job time:         0:01:53
+Job:  parsec-freqmine
+Start time:       2023-05-12 07:27:33
+Completion time:  2023-05-12 07:30:13
+Job time:         0:02:40
+Job:  parsec-radix
+Start time:       2023-05-12 07:30:27
+Completion time:  2023-05-12 07:30:43
+Job time:         0:00:16
+Job:  parsec-vips
+Start time:       2023-05-12 07:29:47
+Completion time:  2023-05-12 07:30:26
+Job time:         0:00:39
+Job:  memcached
+Total time: 0:03:16

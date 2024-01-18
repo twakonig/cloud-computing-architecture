@@ -1,0 +1,2 @@
+- install pip3, and with pip3 install docker and psutil
+- check if docker exists in groups. if not add one with "sudo groupadd -f docker", then add the user "sudo usermod -a -G docker ubuntu" and apply it with "newgrp docker"

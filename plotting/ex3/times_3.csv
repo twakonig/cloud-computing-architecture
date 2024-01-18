@@ -1,0 +1,9 @@
+job, start_time, execution_time
+parsec-blackscholes, 07:34:15, 50
+parsec-canneal, 07:32:16, 133
+parsec-dedup, 07:35:21, 15
+parsec-ferret, 07:32:16, 115
+parsec-freqmine, 07:32:14, 164
+parsec-radix, 07:35:11, 17
+parsec-vips, 07:34:33, 40
+memcached, 00:00:00, 202
